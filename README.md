@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2l0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&h=300&q=60)](https://meghana2708.github.io)
+<!--[![MasterHead](https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2l0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&h=300&q=60)](https://meghana2708.github.io)-->
 <h1 align="center">Hi 👋, I'm Sai Meghana</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">

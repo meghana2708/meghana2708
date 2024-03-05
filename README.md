@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-mu-rosy.vercel.app/](https://portfolio-website-mu-rosy.vercel.app/)
 
-- 📫 How to reach me **vemulasaimeghana@gmail.com**
+- 📫 How to reach me **meghana.bamr@gmail.com**
 
 - ⚡ Fun fact **I love Drawing**
 
